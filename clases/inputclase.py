@@ -7,7 +7,7 @@ MENSAJE_SALUDO = "un gusto conocerte"
 ESTAS_GANDE = "uy estas grande nea"
 
 
-#----- entrada al codigo -----#
+#----- entrada al codigo ------#
 nombre = input (PREGUNTA_NOMBRE)
 print (MENSAJE_SALUDO,nombre)
 edad = int (input (PREGUNTA_EDAD))
