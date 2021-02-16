@@ -2,6 +2,3 @@
 programa
 clase
 
-
-whats up
-que paso 
