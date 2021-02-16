@@ -1,4 +1,4 @@
-#----- constantes -----#
+#----- constantes ------#
 PREGUNTA_NUMERO_A = "ingrese numero A: "
 PREGUNTA_NUMERO_B = "ingrese numero B: "
 RESULTADO_FINAL = "A es mayor a B ?: "
