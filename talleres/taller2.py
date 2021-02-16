@@ -8,6 +8,7 @@ A = int (input (PREGUNTA_NUMERO_A))
 B = int (input (PREGUNTA_NUMERO_B))
 isAmayorB = A > B 
 print (RESULTADO_FINAL,isAmayorB)
+# ------ operaciones con A y B --------#
 print ("-"*15,"la suma es: ","-"*15)
 sumar = A + B
 print (sumar)
