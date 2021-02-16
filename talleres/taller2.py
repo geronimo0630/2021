@@ -3,7 +3,7 @@ PREGUNTA_NUMERO_A = "ingrese numero A: "
 PREGUNTA_NUMERO_B = "ingrese numero B: "
 RESULTADO_FINAL = "A es mayor a B ?: "
 
-#----- entrada codigo -----#
+#----- entrada codigo ------#
 A = int (input (PREGUNTA_NUMERO_A))
 B = int (input (PREGUNTA_NUMERO_B))
 isAmayorB = A > B 
