@@ -1,4 +1,4 @@
-#empezamos utilizando dos boolean
+#empezamos utilizando dos boolean.
 prueba1 = True
 prueba2 = False
 #hicimos que apareciera en pantalla cada boolean puesto 
