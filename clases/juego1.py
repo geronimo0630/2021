@@ -24,7 +24,7 @@ while (numeroOculto != numegroIngresado and vidas > 1):
     vidas -=1
     numegroIngresado = int (input(pregunta_fallaste))
 
-if (vidas >= 0):
+if (vidas >= 0, numeroOculto == numegroIngresado):
     print (pregunta_fallaste)
     print (vidas)
 else: 
