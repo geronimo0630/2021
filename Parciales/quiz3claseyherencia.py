@@ -72,14 +72,6 @@ class Artista (Usuario):
 artista1 = Artista ('drake',34,'masculino','USA','rap',17,5)
 artista1.concierto('miami')
 
-class Favoritos():
-    def init (self, ListaFavIn,FechaActualizacionIn):
-        self.lista = ListaFavIn
-        self.actualizacion = FechaActualizacionIn
-    def actualizar (self,cancion, fecha):
-        cancion = input("ingresar cancion")
-        actualizacion=input("ingrese ultima fecha")
-        nuevalistacancion=list[]
-        Nuevacancion=append.Nuevacancion(cancion)
+
 
 
