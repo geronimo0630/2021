@@ -6,7 +6,7 @@ for i in range (8):
     elemento = input('ingrese 8 alimentos favoritos: ')
     listaalimentosfav.append(elemento)
 for i in range (8):
-    elemento = float (input('ingrese los precios de cada snack puesto: '))
+    elemento = float (input('ingrese los precios de cada comida puesta: '))
     listaprecios.append(elemento)
 #########
 plt.bar(listaalimentosfav,listaprecios)
